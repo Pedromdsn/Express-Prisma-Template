@@ -1,5 +1,10 @@
 # Template Typescript + Prisma + Express
 
+## Use Template
+```
+git clone https://github.com/Pedromdsn/Express-Prisma-Template
+```
+
 ## Install yarn
 
 ```

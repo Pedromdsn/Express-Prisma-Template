@@ -6,7 +6,7 @@
   "author": "Pedromdsn <pedromdsn.com>",
   "scripts": {
     "start": "ts-node src",
-    "dev": "nodemon src"
+    "dev": "nodemon src/index.ts"
   },
   "dependencies": {
     "@prisma/client": "^3.14.0",
